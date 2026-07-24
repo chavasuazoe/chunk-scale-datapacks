@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.mcfunction text eol=lf
+*.json text eol=lf
+*.mcmeta text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.png binary
+*.zip binary

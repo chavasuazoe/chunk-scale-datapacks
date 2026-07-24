@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": {
+      "type": "text",
+      "text": "Chunk Scale — tamaños distintos por chunk (26.3 Snapshot 4)",
+      "color": "gold"
+    },
+    "min_format": [111, 0],
+    "max_format": [111, 0]
+  }
+}

@@ -1,0 +1,20 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Salidas de compilación
+/dist/
+*.log
+
+# Copias locales de mundos/servidores
+/world/
+/server/
+/eula.txt
+server.properties
